@@ -1,5 +1,5 @@
 module.exports = [
-  {key:1, name:'NE Co-Approved 4D Run', location:'Kiplinger Arena', state:'NE', city:'McCook', date:'2017-01-15', time:'1100', sanction:'NE-4D', entryfee:'30', payout:'75%' addedmoney:'0', contactName:'Deb Christy', contactNumber:'785-543-7829', description:''},
+  {key:1, name:'NE Co-Approved 4D Run', location:'Kiplinger Arena', state:'NE', city:'McCook', date:'2017-01-15', time:'1100', sanction:'NE-4D', entryfee:'30', payout:'75%', addedmoney:'0', contactName:'Deb Christy', contactNumber:'785-543-7829', description:''},
   {key:2, name:'NE Co-Approved 4D Run', location:'Kiplinger Arena', state:'NE', city:'McCook', date:'2017-02-12', time:'1100', sanction:'NE-4D', entryfee:'30', payout:'75%', addedmoney:'0', contactName:'Deb Christy', contactNumber:'785-543-7829', description:''},
   {key:3, name:'NE Co-Approved 4D Run', location:'Kiplinger Arena', state:'NE', city:'McCook', date:'2017-03-05', time:'1100', sanction:'NE-4D', entryfee:'30', payout:'75%', addedmoney:'0', contactName:'Deb Christy', contactNumber:'785-543-7829', description:''},
   {key:4, name:'NE Co-Approved 4D Run', location:'Kiplinger Arena', state:'NE', city:'McCook', date:'2017-03-26', time:'1100', sanction:'NE-4D', entryfee:'30', payout:'75%', addedmoney:'0', contactName:'Deb Christy', contactNumber:'785-543-7829', description:''},
@@ -32,7 +32,7 @@ module.exports = [
   {key:31, name:'$200 Added 4D Winter Jackpot Series', location:'Tri County Arena, 27605 Hwy 365', state:'AR', city:'Hensley', date:'2017-01-07', time:'1330', sanction:'', entryfee:'30', payout:'', addedmoney:'200', contactName:'Marcy Ply', contactNumber:'501-590-6780', description:''},
   {key:32, name:' WINTER BUCKLE SERIES BARREL RACE', location:'DEWITT ARENA', state:'LA', city:'Alexandria', date:'2017-01-07', time:'1000', sanction:'', entryfee:'', payout:'', addedmoney:'', contactName:'Susan Hickman', contactNumber:'318-729-4323 ', description:'http://www.rivercitiesbarrelracers.com'},
   {key:33, name:'Cross Brand Cowboy Church Open & Youth Barrel Race Series', location:'11915 FM 2015', state:'TX', city:'Tyler', date:'2017-01-07', time:'1300', sanction:'', entryfee:'20', payout:'100%', addedmoney:'500', contactName:'Kathy', contactNumber:'870-324-0534', description:'http://Www.crossbrandcowboychurch.org'},
-  {key:, name:'', location:'', state:'', city:'', date:'', time:'', sanction:'', entryfee:'', payout:'', addedmoney:'', contactName:'', contactNumber:'', description:''} 
+  {key:34, name:'', location:'', state:'', city:'', date:'', time:'', sanction:'', entryfee:'', payout:'', addedmoney:'', contactName:'', contactNumber:'', description:''}
 ]
 
 
